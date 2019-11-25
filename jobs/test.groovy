@@ -1,4 +1,4 @@
-project_name = "jenkins-pipeline-python-test"
+project_name = "jenkins-pipeline-python-test2"
 repo = "git@github.com:robertopasc17/jenkins.git"
 repo_name = "repo"
 
